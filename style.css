@@ -1,3 +1,8 @@
+body {
+    margin: auto;
+}
+
+
 header {
     background-image: url(../html-css-booleaner/img/pattern.png);
     background-repeat: repeat-x;
@@ -7,8 +12,101 @@ header {
     margin-bottom: 10px;
 }
 
+
+
+h1 {
+    font-size: 40px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+h3 {
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+h4 {
+    margin-top: 0px;
+    font-size: 12px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+thead {
+    color: white;
+    background-color: #20A9E5;
+}
+
+footer {
+    padding: 10px;
+}
+
+
 .logo {
     margin-top: 40px;
     margin-left: 10px;
     height: 50px;
+}
+
+.content {
+    padding: 10px;
+}
+
+.yellow-marker {
+    background-color: #ff0;
+}
+
+.blue-word {
+    color: #2daee6;
+}
+
+.grey-word {
+    color: #808080;
+}
+
+.px-fix {
+    font-size: 16px;
+}
+
+.main-photos {
+    margin-bottom: 10px;
+}
+
+.list {
+    margin-bottom: 20px;
+}
+
+.th-exp {
+    width: 50%;
+}
+
+.tab {
+    margin-top: 20px;
+    text-align: left;
+}
+
+.td-1 {
+    background-color: #b1e5f2;
+}
+
+.sugg {
+    color: white;
+    margin-top: 10px;
+}
+
+.suggestion-a {
+    background-image: url(../html-css-booleaner/img/monitor.jpg);
+    width: 210px;
+    height: 160px;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+.suggestion-b {
+    background-image: url(../html-css-booleaner/img/graph.jpg);
+    width: 210px;
+    height: 160px;
+    padding: 15px;
 }
