@@ -1,0 +1,14 @@
+header {
+    background-image: url(../html-css-booleaner/img/pattern.png);
+    background-repeat: repeat-x;
+    background-size: 400px;
+    background-color: #4EA0FF;
+    height: 100px;
+    margin-bottom: 10px;
+}
+
+.logo {
+    margin-top: 40px;
+    margin-left: 10px;
+    height: 50px;
+}
